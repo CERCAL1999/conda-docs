@@ -2,3 +2,4 @@ conda-sphinx-theme==0.2.1
 sphinx-sitemap==2.2.0
 sphinx-design
 sphinx-reredirects
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
